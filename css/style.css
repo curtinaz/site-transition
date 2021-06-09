@@ -168,7 +168,7 @@ div h5, h6{
   top: 0;
 }
 #header.reveal:not(.alt) {
-    box-shadow: 0 5px 8px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 8px 5px rgba(0, 0, 0, 1);
     position:fixed;
     width:100%;
     top:0;

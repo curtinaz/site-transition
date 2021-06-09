@@ -1,0 +1,47 @@
+
+
+
+
+#txt-slide1 {
+  left: 95px;
+  background: rgba(109, 109, 109, 0.733);
+  color: #ffffff;
+}
+#txt2-slide1 {
+    left: 91px;
+}
+
+#txt3-slide1 {
+    left:95px; 
+    margin: 84px 0; 
+    padding: 32px 64px;
+}
+
+
+#txt-slide2 {
+    left:95px; 
+    background: white; 
+    color:#F60B0B; 
+}
+#txt2-slide2 {
+    left:91px;
+}
+
+#txt3-slide2 {
+    left:95px; 
+    margin: 84px 0; 
+    padding: 32px 64px;
+}
+
+
+
+
+
+
+
+
+/******* seção 2 *********/
+#section2 {
+  background: black;
+  filter: blur(4px);
+}

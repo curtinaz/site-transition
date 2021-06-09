@@ -1,6 +1,4 @@
-
-
-
+/* slide 1 */
 
 #txt-slide1 {
   left: 95px;
@@ -8,40 +6,58 @@
   color: #ffffff;
 }
 #txt2-slide1 {
-    left: 91px;
+  left: 91px;
 }
 
 #txt3-slide1 {
-    left:95px; 
-    margin: 84px 0; 
-    padding: 32px 64px;
+  left: 95px;
+  margin: 84px 0;
+  padding: 32px 64px;
 }
 
+/* slide 2 */
 
 #txt-slide2 {
-    left:95px; 
-    background: white; 
-    color:#F60B0B; 
+  font-family: "Poppins", sans-serif;
+  background: white;
+  color: #f60b0b;
 }
 #txt2-slide2 {
-    left:91px;
+  left: 91px;
+
+  text-align: center;
 }
 
 #txt3-slide2 {
-    left:95px; 
-    margin: 84px 0; 
-    padding: 32px 64px;
+  left: 95px;
+  margin: 84px 0;
+  padding: 32px 64px;
 }
 
+/* slide 3 */
 
+#txt-slide3 {
+  left: 95px;
+  background: white;
+  color: #f60b0b;
+}
+#txt2-slide3 {
+  left: 91px;
+}
 
-
-
-
-
+#txt3-slide3 {
+  left: 95px;
+  margin: 54px 0;
+  padding: 32px 64px;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
 
 /******* seção 2 *********/
 #section2 {
+  padding: 20vh 0;
   background: black;
-  filter: blur(4px);
+  font-family: 'Saira Condensed', sans-serif; 
+  font-weight: 700;
+  height: 90vh;
 }

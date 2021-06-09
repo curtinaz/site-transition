@@ -2,11 +2,11 @@
 /***
 DEFINE YOUR CONTACT EMAIL FORM
 ***/
-$mailTo = 'inwavethemes@gmail.com';
-$mailSubject = 'You have a message from [FROM-NAME] [FROM-EMAIL]';
-$mailMessage = '[FROM-NAME] send you a message:<br> [MESSAGE]';
+$mailTo = 'contato@cineticaedu.com';
+$mailSubject = 'Mensagem no site de: [FROM-NAME]';
+$mailMessage = '[FROM-NAME] deixou uma mensagem no site:<br> [MESSAGE]';
 
 /** debug messages */
-$invalidData = 'Please enter a valid data';
-$failMessage = 'Message sending unsuccessful, please try again!';
-$sentMessage = 'Message sending successful';
+$invalidData = 'Por gentileza, preencha todos os campos.';
+$failMessage = 'Mensagem não enviada, tente novamente.';
+$sentMessage = 'Mensagem enviada com sucesso.';
